@@ -7,5 +7,7 @@
             "name": "Antoine Lemoine",
             "email": "antoine.lemoine@owebia.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
