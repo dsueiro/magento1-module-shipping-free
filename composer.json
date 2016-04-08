@@ -1,0 +1,11 @@
+{
+    "name": "dsueiro/magento1-module-shipping-free",
+    "description": "owebia_shipping_2",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Antoine Lemoine",
+            "email": "antoine.lemoine@owebia.com"
+        }
+    ]
+}
